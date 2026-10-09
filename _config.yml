@@ -1,4 +1,36 @@
-title: IJAS Docs
-remote_theme: just-the-docs/just-the-docs
+title: IJAS Policy & Procedure Manual
+description: Illinois Junior Academy of Science Policy & Procedure Manual, effective September 2026 through August 2028.
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-remote-theme
+
+# Set baseurl to "/<repo-name>" for a project site (username.github.io/<repo-name>).
+# Leave it empty if the site is served from a custom domain or a username.github.io repo.
+baseurl: "/<ijas-docs-test>"
+
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Back to top"
+
+aux_links:
+  "IJAS Website": "https://www.ijas.org"
+aux_links_new_tab: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: yellow
+  note:
+    title: Note
+    color: blue
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
