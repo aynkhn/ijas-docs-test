@@ -6,7 +6,7 @@ plugins:
 
 # Set baseurl to "/<repo-name>" for a project site (username.github.io/<repo-name>).
 # Leave it empty if the site is served from a custom domain or a username.github.io repo.
-baseurl: "/<ijas-docs-test>"
+baseurl: "/ijas-docs-test"
 
 search_enabled: true
 heading_anchors: true
