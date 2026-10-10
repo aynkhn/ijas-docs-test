@@ -23,6 +23,22 @@ A copy of this manual should be given to all project sponsors and student partic
 
 ---
 
+## Which Safety Rules May Apply to a Project?
+
+In addition to these General Laboratory Safety Rules, students and sponsors must read the section(s) below that apply to the project.
+
+| If a project involves… | Read this section (in addition to the General Rules). |
+|:--|:--|
+| Chemicals - Even common household chemicals<br>Burning anything<br>Heating anything beyond room temperature<br>Radiation - Lasers, UV light, x-rays, nuclear radiation | [Chemical, Fire, Heat and Radiation Safety]({{ site.baseurl }}{% link safety/chemical-fire-heat-radiation.md %}) |
+| Computer Programming<br>Artificial Intelligence in any part of the project<br>Creating Apps, Robots or other programmable devices<br>Large Data Sets that were not measured by student<br>Robots or other programmable devices | [Computer, Artificial Intelligence and Data Projects]({{ site.baseurl }}{% link safety/computer-ai-data.md %}) |
+| Firearms/Guns of any kind<br>Rockets<br>Fireworks<br>Explosives | [Firearms, Explosives, Rockets, and Projectile Safety]({{ site.baseurl }}{% link safety/firearms-explosives-rockets.md %}) |
+| Drones<br>Electrical devices<br>Motors<br>Engineered machinery<br>Tools<br>Vehicles - full sized or models | [Electrical, Drone and Mechanical Safety]({{ site.baseurl }}{% link safety/electrical-mechanical-drone.md %}) |
+| Giving humans surveys or tests of any kind<br>Testing human reactions or senses<br>Humans eating or drinking anything<br>Humans doing physical activity<br>Humans learning or being tested on something<br>Observing people in public<br>Human mental health<br>Human testing of an engineered device, app, game or website | [Use and Care of Human Participants]({{ site.baseurl }}{% link safety/human-participants.md %}) |
+| Bacteria or Viruses<br>Mold – even from bread or rotting food<br>Fuel cells or compost involving soil or bacteria<br>Water testing for bacteria or fecal contaminants | [Use and Care of Live Biological Material (excluding vertebrate animals)]({{ site.baseurl }}{% link safety/biological-materials.md %}) |
+| Any vertebrate animals or materials from them, except for humans | [Use and Care of Non-Human Vertebrate Animals]({{ site.baseurl }}{% link safety/vertebrate-animals.md %}) |
+| A topic or method that can potentially be conducted safely but may appear to conflict with or violate an IJAS Safety Rule<br>Involves a situation that is not clearly addressed by the IJAS Safety Rules | [Contacting the SRC for Project Approval]({{ site.baseurl }}{% link safety/contacting-the-src.md %}) |
+
+
 ## Aims and Objectives of the Policy and Procedure Manual
 
 The primary aim of this manual is to communicate the information needed by the student and sponsor so that a safe and humane experimental project or paper is presented at the regional and state expositions. Please read this book carefully and resolve any questions **before** you enter a project or paper.
