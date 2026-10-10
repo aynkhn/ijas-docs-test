@@ -17,6 +17,8 @@ aux_links:
   "IJAS Website": "https://www.ijas.org"
 aux_links_new_tab: true
 
+color_scheme: ijas
+
 callouts:
   warning:
     title: Warning

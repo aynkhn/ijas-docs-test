@@ -1,0 +1,24 @@
+@import "./color_schemes/light";
+
+// IJAS brand
+$ijas-dark-blue: #0b3c7d;
+$ijas-light-blue: #75a8ed;
+$ijas-gray: #e6e6e6;
+$ijas-green: #417b5a;
+$ijas-red: #841619;
+
+$link-color: $ijas-dark-blue;
+$btn-primary-color: $ijas-dark-blue;
+$body-heading-color: $ijas-dark-blue;
+$sidebar-color: #f5f6f8;
+$border-color: $ijas-gray;
+$nav-child-link-color: $ijas-dark-blue;
+$feedback-color: $ijas-gray;
+
+// callout colors
+$blue-000: $ijas-light-blue;
+$blue-300: $ijas-dark-blue;
+$red-000: $ijas-red;
+$red-300: $ijas-red;
+$green-000: $ijas-green;
+$green-300: $ijas-green;
