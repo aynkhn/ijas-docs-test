@@ -19,7 +19,7 @@ A copy of this manual should be given to all project sponsors and student partic
 
 [Rules and Regulations]({{ site.baseurl }}{% link rules-and-regulations.md %}){: .btn .btn-primary .mr-2 }
 [Safety Guidelines]({{ site.baseurl }}{% link safety/index.md %}){: .btn .mr-2 }
-[Official Forms](https://sites.google.com/ijas.org/ijas/rules-and-forms){: .btn }
+[Official Forms](https://ijas.org/rules){: .btn }
 
 ---
 

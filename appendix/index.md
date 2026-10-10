@@ -14,4 +14,4 @@ permalink: /appendix/
 - [College Readiness Standards (CRS)]({{ site.baseurl }}{% link appendix/standards.md %}#college-readiness-standards-crs)
 - [Common Core State Standards (CCSS)]({{ site.baseurl }}{% link appendix/standards.md %}#common-core-state-standards)
 - [Illinois Junior Academy of Science Regions]({{ site.baseurl }}{% link appendix/regions.md %})
-- [Official Forms and Endorsement Sheets](https://sites.google.com/ijas.org/ijas/rules-and-forms)
+- [Official Forms and Endorsement Sheets](https://ijas.org/rules)

@@ -56,7 +56,7 @@ If a student is unsure whether these rules apply to their project, contact the t
 1. Prepare a written experimental procedure describing the biological materials, methods, safety precautions, and disposal procedures that will be used.
 1. Obtain SRC approval before beginning the project when required by these rules.
 1. Begin the project only AFTER all required paperwork and approvals have been completed. Missing, incorrectly completed, unsigned forms, or violation of any safety rules, will result in the project being disqualified by the Head Safety Judge/President.
-1. Middle school students working with microorganisms must complete the [IJAS Microorganism Endorsement **Form on pg 62**](https://sites.google.com/ijas.org/ijas/rules-and-forms).
+1. Middle school students working with microorganisms must complete the [IJAS Microorganism Endorsement **Form on pg 62**](https://ijas.org/rules).
 1. High school students working with potentially hazardous biological agents must complete the applicable [ISEF Form 6A](https://www.societyforscience.org/isef/forms/) and any other required [ISEF forms](https://www.societyforscience.org/isef/forms/). Hazardous biological agents are defined as any BSL-2 agents; any bacteria, viruses, viroids, prions, rickettsia, fungi, and parasites; any Recombinant DNA (rDNA) technologies; any Biological tissues and fluids: any human or animal fresh/frozen tissues, blood, primary cell cultures, and body fluids.
 1. Keep all completed approval forms and safety documentation with the project records and have them on the table with the project display at the science exposition.
 

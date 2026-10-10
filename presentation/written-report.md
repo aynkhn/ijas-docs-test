@@ -41,7 +41,7 @@ The following section establishes the basic written report requirements. Familia
 
 The paper must include (in this order):
 
-1. **Abstract** - Use the IJAS Abstract form, [https://sites.google.com/ijas.org/ijas/rules-and-forms](https://sites.google.com/ijas.org/ijas/rules-and-forms)
+1. **Abstract** - Use the IJAS Abstract form, [https://ijas.org/rules](https://ijas.org/rules)
    - The abstract is a concise summary of the work and the first sheet of the research paper, it will help the reader form an opinion of the work. Students will find writing and rewriting will help produce a good short summary of the project in the required form.
    - The physical form of the abstract is as follows: typed single-spaced, limited to 250 words or fewer, and limited to three paragraphs - purpose, procedure, conclusion.
 2. **Title Page** - The title should be concise and clear. A scientific title includes the independent and dependent variable.
@@ -72,7 +72,7 @@ The following section establishes the basic written report requirements. Familia
 
 The paper must include (in this order):
 
-1. **Abstract** - Use the IJAS Abstract form, [https://sites.google.com/ijas.org/ijas/rules-and-forms](https://sites.google.com/ijas.org/ijas/rules-and-forms)
+1. **Abstract** - Use the IJAS Abstract form, [https://ijas.org/rules](https://ijas.org/rules)
    - The abstract is a concise summary of students’ work and the first sheet of the research paper, it will help readers form an opinion of the work. Students will find writing and rewriting will help produce a good, short summary of the project in the required form.
    - The physical form of the abstract is as follows: typed single-spaced, limited to 250 words or fewer, and limited to three paragraphs - Purpose, Procedure, Conclusion.
 2. **Title Page** - The title should be concise and clear. A scientific title includes the independent and dependent variable if feasible..

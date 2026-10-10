@@ -74,4 +74,4 @@ When required, the Qualified Scientist:
 - completes and signs the required ISEF Qualified Scientist form.
 - If unsure whether the project requires a Qualified Scientist, ask the Adult Sponsor before beginning experimentation. Do not begin the project until all required approvals and forms have been completed. Missing or improperly filled out paperwork will result in the project being disqualified by the Head Safety Judge or the IJAS President or their designated representative..
 
-**Middle School students will find the [IJAS Safety forms on pg 56-62](https://sites.google.com/ijas.org/ijas/rules-and-forms)**
+**Middle School students will find the [IJAS Safety forms on pg 56-62](https://ijas.org/rules)**
