@@ -4,8 +4,6 @@ remote_theme: just-the-docs/just-the-docs@v0.10.1
 plugins:
   - jekyll-remote-theme
 
-# Set baseurl to "/<repo-name>" for a project site (username.github.io/<repo-name>).
-# Leave it empty if the site is served from a custom domain or a username.github.io repo.
 baseurl: "/ijas-docs-test"
 
 search_enabled: true
@@ -14,7 +12,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 aux_links:
-  "IJAS Website": "https://www.ijas.org"
+  "Back to IJAS Website": "https://www.ijas.org"
 aux_links_new_tab: true
 
 color_scheme: ijas
