@@ -1,10 +1,8 @@
 title: IJAS Policy & Procedure Manual
 description: Illinois Junior Academy of Science Policy & Procedure Manual, effective September 2026 through August 2028.
-remote_theme: just-the-docs/just-the-docs@v0.10.1
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 
-baseurl: "/ijas-docs-test"
+baseurl: ""
 
 search_enabled: true
 heading_anchors: true

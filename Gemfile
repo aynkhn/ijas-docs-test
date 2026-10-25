@@ -1,6 +1,7 @@
+
 source "https://rubygems.org"
 
-# Matches the Jekyll version GitHub Pages builds with, so local previews behave the same.
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
+gem "jekyll", "~> 4.4"
+gem "just-the-docs", "0.10.1"
 gem "webrick"
+gem "liquid", "~> 4.0", ">= 4.0.4"
